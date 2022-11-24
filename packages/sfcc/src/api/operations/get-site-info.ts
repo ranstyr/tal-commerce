@@ -24,13 +24,13 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
       categories: [
         {
           id: 'new-arrivals',
-          name: 'New Arrivals',
+          name: 'מתנות',
           slug: 'new-arrivals',
           path: '/new-arrivals',
         },
         {
           id: 'womens-clothing-dresses',
-          name: 'Womens Clothing Dresses',
+          name: 'לצבא',
           slug: 'womens-clothing-dresses',
           path: '/womens-clothing-dresses',
         },
