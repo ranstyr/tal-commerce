@@ -6,7 +6,7 @@
       "vendor": "Next.js",
       "path": "/new-short-sleeve-t-shirt",
       "slug": "new-short-sleeve-t-shirt",
-      "price": { "value": 25, "currencyCode": "NIS" },
+      "price": { "value": 25, "currencyCode": "" },
       "description": "מגן באיכות גבוהה.",
       "descriptionHtml": "<p><span>מגן באיכות גבוהה,&nbsp;</span><strong>limited edition</strong><span>איכות מדהימה</strong></p>",
       "images": [
@@ -82,7 +82,7 @@
       "vendor": "Next.js",
       "path": "/lightweight-jacket",
       "slug": "lightweight-jacket",
-      "price": { "value": 249.99, "currencyCode": "NIS" },
+      "price": { "value": 249.99, "currencyCode": "" },
       "description": "אשת חיל",
       "descriptionHtml": "<p><span>מגן באיכות גבוהה,&nbsp;</span><strong>limited edition</strong><span>איכות מדהימה</strong></p>",
       "images": [
@@ -158,7 +158,7 @@
       "vendor": "Next.js",
       "path": "/shirt",
       "slug": "shirt",
-      "price": { "value": 25, "currencyCode": "USD" },
+      "price": { "value": 25, "currencyCode": "" },
       "description": "מורן המלכה",
       "descriptionHtml": "<p>מורן המלכה</p>",
       "images": [
