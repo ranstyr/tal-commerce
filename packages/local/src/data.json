@@ -2,13 +2,13 @@
   "products": [
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "New Short Sleeve T-Shirt",
+      "name": "מגן",
       "vendor": "Next.js",
       "path": "/new-short-sleeve-t-shirt",
       "slug": "new-short-sleeve-t-shirt",
-      "price": { "value": 25, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "price": { "value": 25, "currencyCode": "NIS" },
+      "description": "מגן באיכות גבוהה.",
+      "descriptionHtml": "<p><span>מגן באיכות גבוהה,&nbsp;</span><strong>limited edition</strong><span>איכות מדהימה</strong></p>",
       "images": [
         {
           "url": "/assets/drop-shirt-0.png",
@@ -32,7 +32,7 @@
       "variants": [
         {
           "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjAss=",
-          "name": "New Short Sleeve T-Shirt",
+          "name": "אשת חיל",
           "sku": "new-short-sleeve-t-shirt",
           "options": [
             {
@@ -78,13 +78,13 @@
     },
     {
       "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Lightweight Jacket",
+      "name": "אשת חיל",
       "vendor": "Next.js",
       "path": "/lightweight-jacket",
       "slug": "lightweight-jacket",
-      "price": { "value": 249.99, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "price": { "value": 249.99, "currencyCode": "NIS" },
+      "description": "אשת חיל",
+      "descriptionHtml": "<p><span>מגן באיכות גבוהה,&nbsp;</span><strong>limited edition</strong><span>איכות מדהימה</strong></p>",
       "images": [
         {
           "url": "/assets/lightweight-jacket-0.png",
@@ -108,7 +108,7 @@
       "variants": [
         {
           "id": "Z2lkOid8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjAss=",
-          "name": "Lightweight Jacket",
+          "name": "אני אוהב את מיקה",
           "sku": "lightweight-jacket",
           "options": [
             {
@@ -154,13 +154,13 @@
     },
     {
       "id": "Z2lkOis8vc2hvcGlmsddeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjA=",
-      "name": "Shirt",
+      "name": "מורן המלכה",
       "vendor": "Next.js",
       "path": "/shirt",
       "slug": "shirt",
       "price": { "value": 25, "currencyCode": "USD" },
-      "description": "Show off your love for Next.js and Vercel with this unique, limited edition t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last - only 200 of these shirts will be made! All proceeds will be donated to charity.",
-      "descriptionHtml": "<p><span>Show off your love for Next.js and Vercel with this unique,&nbsp;</span><strong>limited edition</strong><span>&nbsp;t-shirt. This design is part of a limited run, numbered drop at the June 2021 Next.js Conf. It features a unique, handcrafted triangle design. Get it while supplies last – only 200 of these shirts will be made!&nbsp;</span><strong>All proceeds will be donated to charity.</strong></p>",
+      "description": "מורן המלכה",
+      "descriptionHtml": "<p>מורן המלכה</p>",
       "images": [
         {
           "url": "/assets/t-shirt-0.png",
